@@ -1,4 +1,4 @@
-# mypt2021
+# Vue-cli base
 
 ## Project setup
 ```
