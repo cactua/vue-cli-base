@@ -2,7 +2,7 @@
 
 ## Installation
 ```
-git clone https://github.com/cactua/vue-cli-base.git & rm -rf .git
+git clone https://github.com/cactua/vue-cli-base.git && rm -rf .git
 ```
 
 ## Project setup
